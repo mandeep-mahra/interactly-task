@@ -2,6 +2,9 @@
 
 This project is a simple web application developed using ReactJS, utilizing the reactflow.dev library to create a graph editor. The application allows users to create, update, and delete nodes and branches within a graph.
 
+## Live App
+[https://interactly-task.vercel.app/](url)
+
 ## Features
 
 - Create nodes in circle/rectangle shapes on the graph panel.
