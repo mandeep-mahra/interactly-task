@@ -53,6 +53,6 @@ To run this project locally, follow these steps:
 
 ## Demo
 
-A demo video showcasing the functionality of creating nodes, adding branches, deleting nodes, and deleting branches is available [here](link_to_demo_video).
+A demo video showcasing the functionality of creating nodes, adding branches, deleting nodes, and deleting branches is available [here](https://www.loom.com/share/9aa3e3c0252c414490098f0f97da574e?sid=f8d1d76c-7eef-4a17-81d2-3b5b980d7595).
 
 
