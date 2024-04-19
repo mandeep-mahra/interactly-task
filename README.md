@@ -1,6 +1,6 @@
 # ReactFlow Graph Editor
 
-This project is a simple web application developed using ReactJS and Redux, utilizing the reactflow.dev library to create a graph editor. The application allows users to create, update, and delete nodes and branches within a graph.
+This project is a simple web application developed using ReactJS, utilizing the reactflow.dev library to create a graph editor. The application allows users to create, update, and delete nodes and branches within a graph.
 
 ## Features
 
@@ -12,7 +12,6 @@ This project is a simple web application developed using ReactJS and Redux, util
 ## Technologies Used
 
 - ReactJS
-- Redux
 - reactflow.dev library
 
 ## Setup
