@@ -1,0 +1,29 @@
+.cross{
+  position: absolute;
+  right : 0;
+  top : 0;
+}
+.edit{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100px;
+  gap :10px;
+}
+.inp{
+  width : 100%
+}
+.node{
+  min-height: 30px;
+  min-width: 100%;
+}
+.add-node{
+  margin: 1%;
+  margin-left : 2%;
+  display: flex;
+  gap : 10px;
+}
+.add-btn{
+  font-size: 1.5vw;
+}
